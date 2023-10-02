@@ -1,0 +1,4 @@
+para atualizar os mods apenas extraia este winrar dentro da sua pasta mods
+e exclua os arquivos
+Xaeros_Minimap_23.8.0_Forge_1.12  e
+XaerosWorldMap_1.34.1_Forge_1.12 
